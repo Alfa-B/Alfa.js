@@ -112,7 +112,7 @@ ${i.owner} ${prefix}closegrup
 ${i.owner} ${prefix}join
 ${i.owner} ${prefix}tagall
 ${i.owner} ${prefix}mute
-${i.owner} ${prefix}unmute
+${i.owner} ${prefix}unmut
 
 *Enable / Disable*
 ${i.owner} ${prefix}antilink
@@ -135,6 +135,7 @@ ${i.owner} ${prefix}setprefix
 ${i.owner} ${prefix}bc
 ${i.owner} ${prefix}clearall
 ${i.owner} ${prefix}exif nama|author
+${i.owner} ${prefix}antidelete
 
 Note :
 ${i.owner} : Fitur Admin Grup atau Owner

@@ -79,5 +79,5 @@ webpmux -version
 * [`MhankBarBar`](https://github.com/MhankBarBar)
 * [`MRHRTZ`](https://github.com/MRHRTZ)
 * [`Mamet`](https://github.com/mamet8/)
-* [`Arifi Razzaq`] 
-* [`Aldhy`] (https://github.com/MrKr3m/SELF-HX)
+* [`Arifi Razzaq`](-) 
+* [`Aldhy`](-) 

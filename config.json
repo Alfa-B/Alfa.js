@@ -7,17 +7,17 @@
     "pathImg": "./media/Itsuki.jpg",
     "lolkey": "YOUR_APIKEY",
     "sesidInsta": "default",
-    "sessionName": "aqulzz",
+    "sessionName": "alfaa",
     "txtDonasi": "GOPAY : 085704682918\nTrakteer : -\nSaweeria : -\nPulsa : 085704682918",
     "gcount": {
         "prem": 40,
         "user": 20
     },
     "emote":{
-        "free": "◽",
-        "owner": "◾",
-        "limit": "🔸",
-        "glimit": "🔹",
-        "prem": "💰"
+        "free": "🔓",
+        "owner": "🔒",
+        "limit": "📍",
+        "glimit": "🔖",
+        "prem": "💎"
     }
 }

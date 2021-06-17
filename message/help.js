@@ -2,6 +2,9 @@ exports.menu = (prefix, i) => {
     return `*AlfaBotz*
 Created by Alfa Botz
 
+*Subscribe channel gua :* https://youtube.com/channel/UCo0r7TbSLOmjPktkzdDMU1Q
+*[❗] Ga Subscribe Ga Kawan*
+
 *INFO*
 ${i.free} cekprefix
 ${i.free} ${prefix}stats
@@ -135,7 +138,6 @@ ${i.owner} ${prefix}setprefix
 ${i.owner} ${prefix}bc
 ${i.owner} ${prefix}clearall
 ${i.owner} ${prefix}exif nama|author
-${i.owner} ${prefix}antidelete
 
 Note :
 ${i.owner} : Fitur Admin Grup atau Owner
